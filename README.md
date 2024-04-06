@@ -1,0 +1,1 @@
+Como aluno de Ciência da Computação na UEPB, tô sempre explorando as possibilidades da tecnologia. Tô na vibe de aprimorar minhas habilidades em programação, resolver desafios e botar a mão na massa pra desenvolver software. Tô animado pra contribuir em projetos interessantes e fazer parte dessa comunidade de devs. Bora trocar ideia e fazer acontecer?
