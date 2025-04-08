@@ -1,5 +1,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Grauco1&layout=compact&theme=dark)
 
+##
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1Grauco1/1Grauco1/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1Grauco1/1Grauco1/output/github-contribution-grid-snake.svg">
