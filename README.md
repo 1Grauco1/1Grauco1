@@ -5,10 +5,6 @@
 
 ##
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Grauco1&hide_progress=true&theme=dark)
-
-##
-
 ### • 👨‍💻 _Linguagens e Tecnologias:_
 <div style="display: inline-block;">
   <br>
