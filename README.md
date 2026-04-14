@@ -1,7 +1,7 @@
 # Glauco Antonio
-**`Desenvolder Backend`**
+**`Backend`**
 
-Atualmente cursando o 4º período de Ciências da Computação na Universidade Estadual da Paraíba (UEPB) Campus VII, aprimorando minhas habilidades trabalhando em projetos pessoais como criação de Engines Gráficas e projetos da faculdade. Minha especialidade inclui Java, C++ e Python.
+ｃ ｏ ｄ ｉ ｎ ｇ  |  ｌ ｉ ｆ ｅ
 
 ##
 
