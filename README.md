@@ -9,7 +9,7 @@ Desenvolvedor focado em backend, com interesse em construção de sistemas efici
 ---
 
 ### Tecnologias
-<div style="display: flex; align-items: center; gap: 10px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 12px;">
   <img alt="Java" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
   <img alt="C++" height="30" width="40"
