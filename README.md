@@ -9,16 +9,16 @@ Desenvolvedor focado em backend, com interesse em construção de sistemas efici
 ---
 
 ### Tecnologias
-<div style="display: inline-block">
-  <img align="center" alt="Java" height="30" width="40"
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img alt="Java" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-  <img align="center" alt="C++" height="30" width="40"
+  <img alt="C++" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="Python" height="30" width="40"
+  <img alt="Python" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img align="center" alt="Git" height="30" width="40"
+  <img alt="Git" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-  <img align="center" alt="GitHub" height="30" width="40"
+  <img alt="GitHub" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
 </div>
 
