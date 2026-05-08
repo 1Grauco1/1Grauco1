@@ -16,10 +16,6 @@ Desenvolvedor focado em backend, com interesse em construção de sistemas efici
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
   <img alt="Python" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img alt="Git" height="30" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-  <img alt="GitHub" height="30" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
 </div>
 
 ---
